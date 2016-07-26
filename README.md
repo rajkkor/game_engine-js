@@ -10,6 +10,7 @@ simple game engine written in javascript for web games.
     <a href ="#first_setup">First Setup</a>
   </li>
   <li>
+  Players
     <ul>
     <li>
     add properties
@@ -31,6 +32,16 @@ simple game engine written in javascript for web games.
 </ul>
 <p>test</p>
 <p>test</p>
+<p>test</p>
+<p>test</p>
+<p>test</p>
+<p>test</p>
+<p>test</p>
+<p>test</p>
+<p>test</p>
+<p>test</p>
+<p>test</p>
+
 
 
 
