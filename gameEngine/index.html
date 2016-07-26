@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" onkeypress="myKeyPress(event)">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div id="Game">
+    <div id="player">
+
+    </div>
+</div>
+
+<script src="scripts/main.js" type="text/javascript" rel="script"></script>
+<script>
+
+    var g = new Game("Game");
+    //initializes new game, input is the id of the playfield.
+
+    g.gameName = "MyGame";
+    //game has several properties and you can also prototype your own settings to modify it.
+    //the Game engine handles the core function of the game.
+
+
+    var p = new gameObject("myPlayer");
+    // a Game object can be a player, an enemy, a obstacle etc. this is the core builder for your level.
+
+    p.skin.texture = "media/sprite1.png";
+    //example how you can easily add skins to your game.
+
+    g.render([
+        g.gameName,
+        p.renderSkin()
+    ]);
+
+    //the render function is the core function for rendering the game.
+    // you can easily choose to add which elements you want to be rendered on the playfield.
+
+</script>
+</body>
+</html>
