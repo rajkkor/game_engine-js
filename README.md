@@ -7,13 +7,38 @@ simple game engine written in javascript for web games.
     what is this project?
   </li>
   <li>
-    first setup
+    <a href ="#first_setup">First Setup</a>
   </li>
   <li>
-    create a player
+    <ul>
+    <li>
+    add properties
+    </li>
+    <li>
+    add skin
+    </li>
+    <li>
+    render player
+    </li>
+    <li>
+    setting up player with controls.
+    </li>
+    <li>
+    Enemy Handling
+    </li>
+    </ul>
   </li>
 </ul>
+<p>test</p>
+<p>test</p>
 
+
+
+
+
+
+
+<a name ="first_setup">
 <h3>first Setup</h3>
 <p>
 I've attached some startup files. index.html is the main one you need to worry about, I encourage you to use a seperate script file for easy management. 
