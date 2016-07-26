@@ -7,6 +7,9 @@ simple game engine written in javascript for web games.
     what is this project?
   </li>
   <li>
+  Future plans: 
+  </li>
+  <li>
     <a href ="#first_setup">First Setup</a>
   </li>
   <li>
@@ -32,6 +35,24 @@ simple game engine written in javascript for web games.
 </ul>
 
 <hr>
+
+<a name = "about">
+<h3>what is this project?</h3>
+<p>this is a javascript game engine. my goal with this project is to improve my skills in web development with a strong focus on javascript. 
+</p>
+
+<a name = "future">
+<h3>future plans</h3>
+<p>a list of ideas and future plans. what i plan to implement/improve.</p>
+
+last Updated<date> 2016-07-26</date>
+<ol>Priortized List.
+<li></li>
+<li></li>
+</ol>
+  <ul>
+  
+  </ul>
 
 <a name ="first_setup">
 <h3>first Setup</h3>
