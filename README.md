@@ -30,24 +30,8 @@ simple game engine written in javascript for web games.
     </ul>
   </li>
 </ul>
-<p>test</p>
-<p>test</p>
-<p>test</p>
-<p>test</p>
-<p>test</p>
-<p>test</p>
-<p>test</p>
-<p>test</p>
-<p>test</p>
-<p>test</p>
-<p>test</p>
 
-
-
-
-
-
-
+<hr>
 
 <a name ="first_setup">
 <h3>first Setup</h3>
